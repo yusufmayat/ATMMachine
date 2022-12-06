@@ -1,0 +1,11 @@
+C:\Users\yusuf\source\repos\ATMMachine\ATMMachine\bin\Debug\ATMMachine.exe.config
+C:\Users\yusuf\source\repos\ATMMachine\ATMMachine\bin\Debug\ATMMachine.exe
+C:\Users\yusuf\source\repos\ATMMachine\ATMMachine\bin\Debug\ATMMachine.pdb
+C:\Users\yusuf\source\repos\ATMMachine\ATMMachine\obj\Debug\ATMMachine.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\ATMMachine\ATMMachine\obj\Debug\ATMMachine.Frm_Login.resources
+C:\Users\yusuf\source\repos\ATMMachine\ATMMachine\obj\Debug\ATMMachine.Properties.Resources.resources
+C:\Users\yusuf\source\repos\ATMMachine\ATMMachine\obj\Debug\ATMMachine.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\ATMMachine\ATMMachine\obj\Debug\ATMMachine.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ATMMachine\ATMMachine\obj\Debug\ATMMachine.exe
+C:\Users\yusuf\source\repos\ATMMachine\ATMMachine\obj\Debug\ATMMachine.pdb
+C:\Users\yusuf\source\repos\ATMMachine\ATMMachine\obj\Debug\ATMMachine.MainMenu.resources
